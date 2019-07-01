@@ -1,2 +1,2 @@
-var a=prompt("Enter your name");
+var a = prompt("Enter your name");
 alert(`Good Morning ${a}`);
