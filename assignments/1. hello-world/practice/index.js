@@ -7,8 +7,8 @@ console.log("I'm Learning Javascript");
 // Assign the value "John" to name.
 // Copy the value from name to admin.
 // Show the value of admin using alert (must output “John”)
-var name="John";
-var admin=name;
+var name = "John";
+var admin = name;
 alert(`${admin}`);
 
 // Challenge 3.
@@ -17,13 +17,13 @@ alert("Hello World");
 
 // Challenge 4.
 // Use prompt to take the name of person and greets them. i.e "Welcome Arun"
-var a=prompt("What is your name?");
+var a = prompt("What is your name?");
 alert(`Welcome ${a}`);
 
 // Challenge 5.
 // Get an input from the user using the prompt box and display the length of the string.
 // e.g “Learning is fun” should output will be 15.
-var b=prompt("Input full name");
+var b = prompt("Input full name");
 // Challenge 6.
 var city = "Dharamshala";
 var country = "India";
