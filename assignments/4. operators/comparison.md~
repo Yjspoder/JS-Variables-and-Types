@@ -64,16 +64,16 @@ NaN == NaN;//false
 
 "Hello World" != "Super Mario"//true
 
-NaN !== NaN//true
+NaN !== NaN
 
-NaN != NaN//true
+NaN != NaN
 
-NaN != undefined//true
+NaN != undefined
 
-undefined != null//false
+undefined != null
 
-undefined != "Hello"//true
+undefined != "Hello"
 
-undefined != "undefined"//true
+undefined != "undefined"
 
 ```
