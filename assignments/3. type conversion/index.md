@@ -30,7 +30,7 @@ Number(true);//1
 3. 🎖 Output of the following
 
 ```js
-var x = 10 + "1";//101
-console.log(x);
+var x = 10 + "1";//"101"
+console.log(x);//101
 typeof x;//String
 ```
