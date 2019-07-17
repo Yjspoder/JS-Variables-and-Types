@@ -6,11 +6,14 @@ var num2 = prompt("Input another number");
 var op = prompt("choose operation '+,-,*,/'");
 if (op == "+"){
 	sum = Number(num1) + Number(num2);
-}else if (op == "-"){
+}
+else if (op == "-"){
 	sum = Number(num1) - Number(num2);
-}else if (op == "*"){
+}
+else if (op == "*"){
 	sum = Number(num1) * Number(num2);
-}else if(op == "/"){
+}
+else if(op == "/"){
 	sum = Number(num1) / Number(num2);
 }
 alert(sum);
@@ -63,7 +66,8 @@ var num2 = prompt("Input another number");
 
 if (num1 > num2){
 	alert(`${num1} is greater`);
-} else {
+} 
+else {
 	alert(`${num2} is greater`);
 }
 ```
@@ -80,7 +84,8 @@ var sum = Number(num1) * Number(num2) * Number(num3);
 
 if (sum > 0){
 	alert("+");
-}else{
+}
+else{
 	alert("-");
 }
 ```

@@ -7,7 +7,7 @@ typeof false;//boolean
 typeof function () {};//function
 var phone = 8983700;
 typeof phone;//Number
-typeof null;//undefined
+typeof null;//object
 ```
 
 2. 🎖 Output of the code below
